@@ -1,4 +1,4 @@
-# kahowtos
+# Kannada Academy - Howtos Repo
 How to guides for the common tasks that you need to perform to set up a school.
 
 How to contribute to the collection of guides
