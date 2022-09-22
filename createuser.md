@@ -1,0 +1,10 @@
+# Add a User
+
+![add a user](images/create_a_user.gif "how to create a user")
+
+1. Open the browser and enter the following URL:
+   > http::/admin.google.com
+2. Login with your Kannada Academy ID and password
+3. Click `Add a user`
+4. Enter the `Firstname` and `lastname`
+5. Enter `email` and click `Add User`
