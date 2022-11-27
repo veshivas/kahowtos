@@ -13,4 +13,3 @@ Ensure that the classroom's name follows the recommended naming convention:
 
 For example:
 > EU-NO-NKS-SB1-TEACHER1
-

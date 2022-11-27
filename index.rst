@@ -13,3 +13,5 @@ your school.
    createunit
    createuser
    createclassroom
+   addusertoclass
+   inviteguardians
